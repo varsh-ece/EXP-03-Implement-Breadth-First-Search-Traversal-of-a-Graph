@@ -1,6 +1,6 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: VARSHINI M S </h3>
+<h3>Name: VARSHINI M  </h3>
 <h3>Register Number: 212224060293 </h3>
 
 <H3>Aim:</H3>
